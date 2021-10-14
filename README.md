@@ -8,6 +8,6 @@ see the repo [scanbot-sdk-example-xamarin-forms](https://github.com/doo/scanbot-
 
 ## How to run this app
 
-Install the latest versions of [Visual Studio](https://visualstudio.microsoft.com).
+Install the latest version of [Visual Studio](https://visualstudio.microsoft.com).
 Fetch this repository and open it via `MyAwesomeXamarinApp.sln` in Visual Studio.
 Select the platform and your target device and hit the "Run" button.
