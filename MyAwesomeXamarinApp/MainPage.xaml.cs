@@ -23,7 +23,7 @@ namespace MyAwesomeXamarinApp
 
             if (result.Status == OperationResult.Ok)
             {
-                ScannedDocumentImage.Source = await result.Pages[0].DecryptedDocumentPreview();
+                ScannedDocumentImage.Source = result.Pages[0].DocumentPreview;
             }
         }
     }
