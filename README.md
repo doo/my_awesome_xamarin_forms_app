@@ -1,7 +1,7 @@
 # My Awesome Xamarin.Forms App
 
 A simple Xamarin.Forms demo app based on the tutorial in the blog post 
-["TODO link"](https://scanbot.io/blog/TODO/).
+["Xamarin.Forms tutorial – SDK integration step by step for iOS and Android"](https://scanbot.io/blog/xamarin-forms-tutorial-sdk-integration-step-by-step-for-ios-and-android).
 
 For a **full** example project which demonstrates **all** API methods of the Scanbot SDK for Xamarin.Forms
 see the repo [scanbot-sdk-example-xamarin-forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms).
